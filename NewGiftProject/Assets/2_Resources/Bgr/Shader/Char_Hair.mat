@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Char_Hair
+  m_Shader: {fileID: 4800000, guid: bc6ef3c38b6814445a87cb1ac5710387, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 02fb372812b2c464ba18a7526753613c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Outline: 0.002
+    - _OutlineColor: 0
+    - _RimAmount: 0.532
+    - _RimPow: 0.173
+    - _SickBar: 0
+    - _SickButton: 0
+    - _SickRange: 3
+    - _ToonLine: 0.01
+    m_Colors:
+    - _AmbientColor: {r: 0.7350036, g: 0.75159305, b: 0.7830189, a: 1}
+    - _Color: {r: 0.9481132, g: 0.9634871, b: 1, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Sick: {r: 1, g: 1, b: 1, a: 1}
+    - _SickColor: {r: 0.7, g: 0.7, b: 0.7, a: 1}

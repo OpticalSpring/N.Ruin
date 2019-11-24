@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{ff98dc11-03fe-40a5-9db6-ca9a2a36ba64}">
+		<property name="name">
+			<value>Swith</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a417e4b0-543a-4b67-800c-7d8ac6096807}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a022b369-a196-450f-9554-f7b9da5f0472}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a022b369-a196-450f-9554-f7b9da5f0472}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>On</value>
+			<value>Off</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

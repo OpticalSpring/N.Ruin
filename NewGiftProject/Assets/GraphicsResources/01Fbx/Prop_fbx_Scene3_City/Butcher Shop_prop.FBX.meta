@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 1bead62ff27d5104a83bdd133859adc9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: accordion_window_glass_prop
+    100002: accordion_window_glass_prop 1
+    100004: accordion_window_glass_prop001
+    100006: accordion_window_prop
+    100008: accordion_window_prop 1
+    100010: accordion_window_prop 2
+    100012: accordion_window_prop 3
+    100014: accordion_window_prop 4
+    100016: accordion_window_prop001
+    100018: //RootNode
+    100020: Butcher Shop_prop 1
+    100022: Butcher_box_big_prop
+    100024: Butcher_box_big_prop 1
+    100026: Butcher_box_prop
+    100028: Butcher_box_small_prop
+    100030: Butcher_box_small_prop 1
+    100032: Butcher_cloth_prop
+    100034: Butcher_cloth_prop 1
+    100036: Butcher_window_Frame_prop
+    100038: Butcher_window_prop
+    100040: Butcher_window_prop 1
+    100042: Glass_Door_glass_prop
+    100044: Glass_Door_glass_prop001
+    100046: Glass_Door_left_prop
+    100048: Glass_Door_metal_prop
+    100050: Glass_Door_metal_prop001
+    100052: Glass_Door_prop
+    100054: Glass_Door_right_prop
+    100056: Signboard_Butcher_prop
+    100058: Signboard_Butcher_prop 1
+    100060: Signboard_deco_prop
+    100062: Signboard_deco_prop 1
+    400000: accordion_window_glass_prop
+    400002: accordion_window_glass_prop 1
+    400004: accordion_window_glass_prop001
+    400006: accordion_window_prop
+    400008: accordion_window_prop 1
+    400010: accordion_window_prop 2
+    400012: accordion_window_prop 3
+    400014: accordion_window_prop 4
+    400016: accordion_window_prop001
+    400018: //RootNode
+    400020: Butcher Shop_prop 1
+    400022: Butcher_box_big_prop
+    400024: Butcher_box_big_prop 1
+    400026: Butcher_box_prop
+    400028: Butcher_box_small_prop
+    400030: Butcher_box_small_prop 1
+    400032: Butcher_cloth_prop
+    400034: Butcher_cloth_prop 1
+    400036: Butcher_window_Frame_prop
+    400038: Butcher_window_prop
+    400040: Butcher_window_prop 1
+    400042: Glass_Door_glass_prop
+    400044: Glass_Door_glass_prop001
+    400046: Glass_Door_left_prop
+    400048: Glass_Door_metal_prop
+    400050: Glass_Door_metal_prop001
+    400052: Glass_Door_prop
+    400054: Glass_Door_right_prop
+    400056: Signboard_Butcher_prop
+    400058: Signboard_Butcher_prop 1
+    400060: Signboard_deco_prop
+    400062: Signboard_deco_prop 1
+    2100000: No Name
+    2300000: accordion_window_glass_prop
+    2300002: accordion_window_glass_prop 1
+    2300004: accordion_window_glass_prop001
+    2300006: accordion_window_prop 3
+    2300008: accordion_window_prop 4
+    2300010: accordion_window_prop001
+    2300012: Butcher Shop_prop 1
+    2300014: Butcher_box_big_prop 1
+    2300016: Butcher_box_small_prop 1
+    2300018: Butcher_cloth_prop
+    2300020: Butcher_cloth_prop 1
+    2300022: Butcher_window_Frame_prop
+    2300024: Butcher_window_prop 1
+    2300026: Glass_Door_glass_prop
+    2300028: Glass_Door_glass_prop001
+    2300030: Glass_Door_metal_prop
+    2300032: Glass_Door_metal_prop001
+    2300034: Signboard_Butcher_prop 1
+    2300036: Signboard_deco_prop
+    2300038: Signboard_deco_prop 1
+    3300000: accordion_window_glass_prop
+    3300002: accordion_window_glass_prop 1
+    3300004: accordion_window_glass_prop001
+    3300006: accordion_window_prop 3
+    3300008: accordion_window_prop 4
+    3300010: accordion_window_prop001
+    3300012: Butcher Shop_prop 1
+    3300014: Butcher_box_big_prop 1
+    3300016: Butcher_box_small_prop 1
+    3300018: Butcher_cloth_prop
+    3300020: Butcher_cloth_prop 1
+    3300022: Butcher_window_Frame_prop
+    3300024: Butcher_window_prop 1
+    3300026: Glass_Door_glass_prop
+    3300028: Glass_Door_glass_prop001
+    3300030: Glass_Door_metal_prop
+    3300032: Glass_Door_metal_prop001
+    3300034: Signboard_Butcher_prop 1
+    3300036: Signboard_deco_prop
+    3300038: Signboard_deco_prop 1
+    4300000: Butcher_box_small_prop
+    4300002: Butcher_cloth_prop
+    4300004: Butcher_box_big_prop
+    4300006: Butcher_cloth_prop
+    4300008: Butcher_window_Frame_prop
+    4300010: Glass_Door_metal_prop
+    4300012: Glass_Door_glass_prop
+    4300014: Glass_Door_glass_prop001
+    4300016: Glass_Door_metal_prop001
+    4300018: accordion_window_glass_prop
+    4300020: accordion_window_prop
+    4300022: Butcher_window_prop
+    4300024: accordion_window_prop
+    4300026: accordion_window_glass_prop
+    4300028: accordion_window_glass_prop001
+    4300030: accordion_window_prop001
+    4300032: Butcher Shop_prop
+    4300034: Signboard_deco_prop
+    4300036: Signboard_deco_prop
+    4300038: Signboard_Butcher_prop
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

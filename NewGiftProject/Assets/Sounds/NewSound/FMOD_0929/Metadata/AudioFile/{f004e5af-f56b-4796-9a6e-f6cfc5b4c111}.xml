@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{f004e5af-f56b-4796-9a6e-f6cfc5b4c111}">
+		<property name="assetPath">
+			<value>Male_Pain_Scream15.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.0825623582766442</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f68bf592-e904-4566-91f0-1dd9e533efb1}</destination>
+		</relationship>
+	</object>
+</objects>

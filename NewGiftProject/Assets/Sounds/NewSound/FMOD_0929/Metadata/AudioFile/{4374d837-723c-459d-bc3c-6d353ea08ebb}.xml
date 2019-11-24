@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{4374d837-723c-459d-bc3c-6d353ea08ebb}">
+		<property name="assetPath">
+			<value>29_Neon_Light_Strips_Turned_On_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>14.933333333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f68bf592-e904-4566-91f0-1dd9e533efb1}</destination>
+		</relationship>
+	</object>
+</objects>

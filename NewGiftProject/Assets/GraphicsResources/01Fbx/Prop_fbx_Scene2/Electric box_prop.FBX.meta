@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: c8f69414172745d4983fbc3f72cc017a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Electric box_black
+    100002: Electric box_button_color
+    100004: Electric box_button_red
+    100006: Electric box_gray
+    100008: Electric box_handle
+    100010: Electric box_open
+    100012: Electric box_open 1
+    100014: Electric box_open_black
+    100016: Electric box_open_button_color
+    100018: Electric box_open_button_red
+    100020: Electric box_open_gray
+    100022: Electric box_open_handle
+    100024: Electric box_open_white
+    100026: //RootNode
+    100028: Electric box_prop 1
+    100030: Electric box_prop 2
+    100032: Electric box_prop003
+    100034: Electric box_small1
+    100036: Electric box_small1 1
+    100038: Electric box_small1_black
+    100040: Electric box_small1_button
+    100042: Electric box_small1_button_color
+    100044: Electric box_small1_button_red
+    100046: Electric box_small1_glass
+    100048: Electric box_small1_gray
+    100050: Electric box_small1_handle
+    100052: Electric box_small1_white
+    100054: Electric box_small2
+    100056: Electric box_small2 1
+    100058: Electric box_small2_black
+    100060: Electric box_small2_button_red001
+    100062: Electric box_small2_glass
+    100064: Electric box_small2_gray
+    100066: Electric box_small2_handle
+    100068: Electric box_small2_white
+    100070: Electric box_white
+    400000: Electric box_black
+    400002: Electric box_button_color
+    400004: Electric box_button_red
+    400006: Electric box_gray
+    400008: Electric box_handle
+    400010: Electric box_open
+    400012: Electric box_open 1
+    400014: Electric box_open_black
+    400016: Electric box_open_button_color
+    400018: Electric box_open_button_red
+    400020: Electric box_open_gray
+    400022: Electric box_open_handle
+    400024: Electric box_open_white
+    400026: //RootNode
+    400028: Electric box_prop 1
+    400030: Electric box_prop 2
+    400032: Electric box_prop003
+    400034: Electric box_small1
+    400036: Electric box_small1 1
+    400038: Electric box_small1_black
+    400040: Electric box_small1_button
+    400042: Electric box_small1_button_color
+    400044: Electric box_small1_button_red
+    400046: Electric box_small1_glass
+    400048: Electric box_small1_gray
+    400050: Electric box_small1_handle
+    400052: Electric box_small1_white
+    400054: Electric box_small2
+    400056: Electric box_small2 1
+    400058: Electric box_small2_black
+    400060: Electric box_small2_button_red001
+    400062: Electric box_small2_glass
+    400064: Electric box_small2_gray
+    400066: Electric box_small2_handle
+    400068: Electric box_small2_white
+    400070: Electric box_white
+    2100000: No Name
+    2300000: Electric box_black
+    2300002: Electric box_button_color
+    2300004: Electric box_button_red
+    2300006: Electric box_gray
+    2300008: Electric box_handle
+    2300010: Electric box_open 1
+    2300012: Electric box_open_black
+    2300014: Electric box_open_button_color
+    2300016: Electric box_open_button_red
+    2300018: Electric box_open_gray
+    2300020: Electric box_open_handle
+    2300022: Electric box_open_white
+    2300024: Electric box_prop 2
+    2300026: Electric box_prop003
+    2300028: Electric box_small1 1
+    2300030: Electric box_small1_black
+    2300032: Electric box_small1_button
+    2300034: Electric box_small1_button_color
+    2300036: Electric box_small1_button_red
+    2300038: Electric box_small1_glass
+    2300040: Electric box_small1_gray
+    2300042: Electric box_small1_handle
+    2300044: Electric box_small1_white
+    2300046: Electric box_small2 1
+    2300048: Electric box_small2_black
+    2300050: Electric box_small2_button_red001
+    2300052: Electric box_small2_glass
+    2300054: Electric box_small2_gray
+    2300056: Electric box_small2_handle
+    2300058: Electric box_small2_white
+    2300060: Electric box_white
+    3300000: Electric box_black
+    3300002: Electric box_button_color
+    3300004: Electric box_button_red
+    3300006: Electric box_gray
+    3300008: Electric box_handle
+    3300010: Electric box_open 1
+    3300012: Electric box_open_black
+    3300014: Electric box_open_button_color
+    3300016: Electric box_open_button_red
+    3300018: Electric box_open_gray
+    3300020: Electric box_open_handle
+    3300022: Electric box_open_white
+    3300024: Electric box_prop 2
+    3300026: Electric box_prop003
+    3300028: Electric box_small1 1
+    3300030: Electric box_small1_black
+    3300032: Electric box_small1_button
+    3300034: Electric box_small1_button_color
+    3300036: Electric box_small1_button_red
+    3300038: Electric box_small1_glass
+    3300040: Electric box_small1_gray
+    3300042: Electric box_small1_handle
+    3300044: Electric box_small1_white
+    3300046: Electric box_small2 1
+    3300048: Electric box_small2_black
+    3300050: Electric box_small2_button_red001
+    3300052: Electric box_small2_glass
+    3300054: Electric box_small2_gray
+    3300056: Electric box_small2_handle
+    3300058: Electric box_small2_white
+    3300060: Electric box_white
+    4300000: Electric box_open_button_red
+    4300002: Electric box_open_button_color
+    4300004: Electric box_open_gray
+    4300006: Electric box_open_black
+    4300008: Electric box_open_white
+    4300010: Electric box_open
+    4300012: Electric box_prop003
+    4300014: Electric box_open_handle
+    4300016: Electric box_gray
+    4300018: Electric box_black
+    4300020: Electric box_handle
+    4300022: Electric box_button_color
+    4300024: Electric box_white
+    4300026: Electric box_button_red
+    4300028: Electric box_prop
+    4300030: Electric box_small2_button_red001
+    4300032: Electric box_small1_button_color
+    4300034: Electric box_small2_gray
+    4300036: Electric box_small2_black
+    4300038: Electric box_small2_glass
+    4300040: Electric box_small2_handle
+    4300042: Electric box_small2_white
+    4300044: Electric box_small2
+    4300046: Electric box_small1_white
+    4300048: Electric box_small1_black
+    4300050: Electric box_small1_handle
+    4300052: Electric box_small1_button_red
+    4300054: Electric box_small1_gray
+    4300056: Electric box_small1_glass
+    4300058: Electric box_small1_button
+    4300060: Electric box_small1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

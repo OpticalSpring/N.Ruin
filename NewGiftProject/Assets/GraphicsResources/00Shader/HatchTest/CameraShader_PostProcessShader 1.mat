@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CameraShader_PostProcessShader 1
+  m_Shader: {fileID: 4800000, guid: aa989ce3b93ce73419797fa41084644e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: 0a3f31631e407e844a3036aa4007c63b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 2800000, guid: f53d01921b9170b4e989c291a2c7e9cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex4:
+        m_Texture: {fileID: 2800000, guid: c801c6f20e14c8b43a70c9359feab786, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex5:
+        m_Texture: {fileID: 2800000, guid: ccdb685f6c105b34abc82cd6b079eb46, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex6:
+        m_Texture: {fileID: 2800000, guid: c0f8b80519e47b04c916210cb3d5ee80, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bluech: 3.9
+    - _GlitchflowSpeed: 51.9
+    - _Greench: 2.4
+    - _Redch: 39
+    - _ShadowThreshold: 0.035
+    - _ShadowThreshold2: 0.02
+    - _ShadowThreshold3: 0.008
+    - _ShadowThreshold4: 0.004
+    - _WhiteLevel: 1
+    - _WhiteLevel2: 0.43
+    - _glipower: 1.93
+    - _glitchuv: 1
+    - _outlineonoff: 1
+    - _zero: 0
+    m_Colors: []

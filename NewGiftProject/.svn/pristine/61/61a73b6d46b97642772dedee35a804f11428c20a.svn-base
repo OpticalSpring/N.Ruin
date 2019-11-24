@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: a10c13b521f8fb148a041cecb921896c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Hanging leg meat_prop
+    100002: Hanging leg meat_prop 1
+    100004: Hanging sausage_Big_prop
+    100006: Hanging sausage_prop
+    100008: Hanging sausage_prop 1
+    100010: Hanging sausage_Small_2-circle_prop
+    100012: Hanging sausage_Small_2_prop
+    100014: Hanging sausage_Small_3_prop
+    100016: Meat_packing_prop
+    100018: Meat_packing_prop 1
+    100020: Meat_packing_prop 2
+    100022: Meat_packing_prop 3
+    100024: //RootNode
+    100026: Meat_random_prop
+    100028: Meat_random_prop 1
+    100030: Meat_random_prop 2
+    100032: Meat_random_prop 3
+    100034: Meat_random_prop 4
+    100036: Meat_random_prop 5
+    100038: Meat_random_prop 6
+    100040: Meat_random_prop 7
+    100042: Meat_Ring_prop
+    100044: Meat_Ring_prop 1
+    100046: Meat_Ring_prop 10
+    100048: Meat_Ring_prop 2
+    100050: Meat_Ring_prop 3
+    100052: Meat_Ring_prop 4
+    100054: Meat_Ring_prop 5
+    100056: Meat_Ring_prop 6
+    100058: Meat_Ring_prop 7
+    100060: Meat_Ring_prop 8
+    100062: Meat_Ring_prop 9
+    100064: sausage_L_prop
+    100066: sausage_M_prop
+    100068: sausage_prop
+    100070: sausage_prop 1
+    100072: sausage_prop 2
+    100074: sausage_prop 3
+    100076: sausage_Roll_prop
+    100078: sausage_S_prop
+    100080: sausage_Slice_piece1_prop
+    100082: sausage_Slice_piece2_prop
+    100084: sausage_Slice_piece3_prop
+    100086: sausage_Slice_prop
+    100088: sausage_Slice_prop 1
+    100090: sausage_warp_L_prop
+    100092: sausage_warp_M_prop
+    100094: sausage_warp_prop
+    100096: sausage_warp_S_prop
+    100098: Styrofoam001_prop
+    400000: Hanging leg meat_prop
+    400002: Hanging leg meat_prop 1
+    400004: Hanging sausage_Big_prop
+    400006: Hanging sausage_prop
+    400008: Hanging sausage_prop 1
+    400010: Hanging sausage_Small_2-circle_prop
+    400012: Hanging sausage_Small_2_prop
+    400014: Hanging sausage_Small_3_prop
+    400016: Meat_packing_prop
+    400018: Meat_packing_prop 1
+    400020: Meat_packing_prop 2
+    400022: Meat_packing_prop 3
+    400024: //RootNode
+    400026: Meat_random_prop
+    400028: Meat_random_prop 1
+    400030: Meat_random_prop 2
+    400032: Meat_random_prop 3
+    400034: Meat_random_prop 4
+    400036: Meat_random_prop 5
+    400038: Meat_random_prop 6
+    400040: Meat_random_prop 7
+    400042: Meat_Ring_prop
+    400044: Meat_Ring_prop 1
+    400046: Meat_Ring_prop 10
+    400048: Meat_Ring_prop 2
+    400050: Meat_Ring_prop 3
+    400052: Meat_Ring_prop 4
+    400054: Meat_Ring_prop 5
+    400056: Meat_Ring_prop 6
+    400058: Meat_Ring_prop 7
+    400060: Meat_Ring_prop 8
+    400062: Meat_Ring_prop 9
+    400064: sausage_L_prop
+    400066: sausage_M_prop
+    400068: sausage_prop
+    400070: sausage_prop 1
+    400072: sausage_prop 2
+    400074: sausage_prop 3
+    400076: sausage_Roll_prop
+    400078: sausage_S_prop
+    400080: sausage_Slice_piece1_prop
+    400082: sausage_Slice_piece2_prop
+    400084: sausage_Slice_piece3_prop
+    400086: sausage_Slice_prop
+    400088: sausage_Slice_prop 1
+    400090: sausage_warp_L_prop
+    400092: sausage_warp_M_prop
+    400094: sausage_warp_prop
+    400096: sausage_warp_S_prop
+    400098: Styrofoam001_prop
+    2100000: No Name
+    2300000: Hanging leg meat_prop 1
+    2300002: Hanging sausage_Big_prop
+    2300004: Hanging sausage_Small_2-circle_prop
+    2300006: Hanging sausage_Small_2_prop
+    2300008: Hanging sausage_Small_3_prop
+    2300010: Meat_packing_prop 1
+    2300012: Meat_packing_prop 2
+    2300014: Meat_packing_prop 3
+    2300016: Meat_random_prop 1
+    2300018: Meat_random_prop 2
+    2300020: Meat_random_prop 3
+    2300022: Meat_random_prop 4
+    2300024: Meat_random_prop 5
+    2300026: Meat_random_prop 6
+    2300028: Meat_random_prop 7
+    2300030: Meat_Ring_prop
+    2300032: Meat_Ring_prop 10
+    2300034: Meat_Ring_prop 2
+    2300036: Meat_Ring_prop 3
+    2300038: Meat_Ring_prop 4
+    2300040: Meat_Ring_prop 5
+    2300042: Meat_Ring_prop 6
+    2300044: Meat_Ring_prop 7
+    2300046: Meat_Ring_prop 8
+    2300048: Meat_Ring_prop 9
+    2300050: sausage_L_prop
+    2300052: sausage_M_prop
+    2300054: sausage_prop 2
+    2300056: sausage_Roll_prop
+    2300058: sausage_S_prop
+    2300060: sausage_Slice_piece1_prop
+    2300062: sausage_Slice_piece2_prop
+    2300064: sausage_Slice_piece3_prop
+    2300066: sausage_Slice_prop 1
+    2300068: sausage_warp_L_prop
+    2300070: sausage_warp_M_prop
+    2300072: sausage_warp_S_prop
+    2300074: Styrofoam001_prop
+    3300000: Hanging leg meat_prop 1
+    3300002: Hanging sausage_Big_prop
+    3300004: Hanging sausage_Small_2-circle_prop
+    3300006: Hanging sausage_Small_2_prop
+    3300008: Hanging sausage_Small_3_prop
+    3300010: Meat_packing_prop 1
+    3300012: Meat_packing_prop 2
+    3300014: Meat_packing_prop 3
+    3300016: Meat_random_prop 1
+    3300018: Meat_random_prop 2
+    3300020: Meat_random_prop 3
+    3300022: Meat_random_prop 4
+    3300024: Meat_random_prop 5
+    3300026: Meat_random_prop 6
+    3300028: Meat_random_prop 7
+    3300030: Meat_Ring_prop
+    3300032: Meat_Ring_prop 10
+    3300034: Meat_Ring_prop 2
+    3300036: Meat_Ring_prop 3
+    3300038: Meat_Ring_prop 4
+    3300040: Meat_Ring_prop 5
+    3300042: Meat_Ring_prop 6
+    3300044: Meat_Ring_prop 7
+    3300046: Meat_Ring_prop 8
+    3300048: Meat_Ring_prop 9
+    3300050: sausage_L_prop
+    3300052: sausage_M_prop
+    3300054: sausage_prop 2
+    3300056: sausage_Roll_prop
+    3300058: sausage_S_prop
+    3300060: sausage_Slice_piece1_prop
+    3300062: sausage_Slice_piece2_prop
+    3300064: sausage_Slice_piece3_prop
+    3300066: sausage_Slice_prop 1
+    3300068: sausage_warp_L_prop
+    3300070: sausage_warp_M_prop
+    3300072: sausage_warp_S_prop
+    3300074: Styrofoam001_prop
+    4300000: sausage_prop
+    4300002: sausage_Roll_prop
+    4300004: sausage_warp_M_prop
+    4300006: sausage_warp_S_prop
+    4300008: sausage_warp_L_prop
+    4300010: sausage_L_prop
+    4300012: sausage_M_prop
+    4300014: sausage_S_prop
+    4300016: sausage_Slice_piece3_prop
+    4300018: sausage_Slice_piece1_prop
+    4300020: sausage_Slice_piece2_prop
+    4300022: sausage_Slice_prop
+    4300024: Meat_packing_prop
+    4300026: Meat_packing_prop
+    4300028: Meat_packing_prop
+    4300030: Styrofoam001_prop
+    4300032: Meat_random_prop
+    4300034: Meat_random_prop
+    4300036: Meat_random_prop
+    4300038: Meat_random_prop
+    4300040: Meat_random_prop
+    4300042: Meat_random_prop
+    4300044: Meat_random_prop
+    4300046: Meat_Ring_prop
+    4300048: Meat_Ring_prop
+    4300050: Meat_Ring_prop
+    4300052: Meat_Ring_prop
+    4300054: Meat_Ring_prop
+    4300056: Meat_Ring_prop
+    4300058: Meat_Ring_prop
+    4300060: Meat_Ring_prop
+    4300062: Meat_Ring_prop
+    4300064: Hanging sausage_Small_2-circle_prop
+    4300066: Hanging sausage_Small_3_prop
+    4300068: Hanging sausage_Small_2_prop
+    4300070: Hanging sausage_Big_prop
+    4300072: Meat_Ring_prop
+    4300074: Hanging leg meat_prop
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

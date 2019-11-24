@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: a2d7b2ad5b32325409931733a75719ae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: City_building_shops_light_prop
+    100002: City_building_shops_light_prop 1
+    100004: City_building_shops_light_prop 10
+    100006: City_building_shops_light_prop 11
+    100008: City_building_shops_light_prop 12
+    100010: City_building_shops_light_prop 13
+    100012: City_building_shops_light_prop 14
+    100014: City_building_shops_light_prop 15
+    100016: City_building_shops_light_prop 16
+    100018: City_building_shops_light_prop 17
+    100020: City_building_shops_light_prop 18
+    100022: City_building_shops_light_prop 19
+    100024: City_building_shops_light_prop 2
+    100026: City_building_shops_light_prop 20
+    100028: City_building_shops_light_prop 21
+    100030: City_building_shops_light_prop 22
+    100032: City_building_shops_light_prop 23
+    100034: City_building_shops_light_prop 24
+    100036: City_building_shops_light_prop 25
+    100038: City_building_shops_light_prop 26
+    100040: City_building_shops_light_prop 27
+    100042: City_building_shops_light_prop 28
+    100044: City_building_shops_light_prop 29
+    100046: City_building_shops_light_prop 3
+    100048: City_building_shops_light_prop 30
+    100050: City_building_shops_light_prop 4
+    100052: City_building_shops_light_prop 5
+    100054: City_building_shops_light_prop 6
+    100056: City_building_shops_light_prop 7
+    100058: City_building_shops_light_prop 8
+    100060: City_building_shops_light_prop 9
+    100062: //RootNode
+    100064: City_building_shops_prop 1
+    100066: Object012City_building_shops_light_prop
+    400000: City_building_shops_light_prop
+    400002: City_building_shops_light_prop 1
+    400004: City_building_shops_light_prop 10
+    400006: City_building_shops_light_prop 11
+    400008: City_building_shops_light_prop 12
+    400010: City_building_shops_light_prop 13
+    400012: City_building_shops_light_prop 14
+    400014: City_building_shops_light_prop 15
+    400016: City_building_shops_light_prop 16
+    400018: City_building_shops_light_prop 17
+    400020: City_building_shops_light_prop 18
+    400022: City_building_shops_light_prop 19
+    400024: City_building_shops_light_prop 2
+    400026: City_building_shops_light_prop 20
+    400028: City_building_shops_light_prop 21
+    400030: City_building_shops_light_prop 22
+    400032: City_building_shops_light_prop 23
+    400034: City_building_shops_light_prop 24
+    400036: City_building_shops_light_prop 25
+    400038: City_building_shops_light_prop 26
+    400040: City_building_shops_light_prop 27
+    400042: City_building_shops_light_prop 28
+    400044: City_building_shops_light_prop 29
+    400046: City_building_shops_light_prop 3
+    400048: City_building_shops_light_prop 30
+    400050: City_building_shops_light_prop 4
+    400052: City_building_shops_light_prop 5
+    400054: City_building_shops_light_prop 6
+    400056: City_building_shops_light_prop 7
+    400058: City_building_shops_light_prop 8
+    400060: City_building_shops_light_prop 9
+    400062: //RootNode
+    400064: City_building_shops_prop 1
+    400066: Object012City_building_shops_light_prop
+    2100000: No Name
+    2300000: City_building_shops_light_prop 11
+    2300002: City_building_shops_light_prop 12
+    2300004: City_building_shops_light_prop 15
+    2300006: City_building_shops_light_prop 16
+    2300008: City_building_shops_light_prop 17
+    2300010: City_building_shops_light_prop 18
+    2300012: City_building_shops_light_prop 19
+    2300014: City_building_shops_light_prop 2
+    2300016: City_building_shops_light_prop 20
+    2300018: City_building_shops_light_prop 21
+    2300020: City_building_shops_light_prop 22
+    2300022: City_building_shops_light_prop 23
+    2300024: City_building_shops_light_prop 24
+    2300026: City_building_shops_light_prop 25
+    2300028: City_building_shops_light_prop 26
+    2300030: City_building_shops_light_prop 27
+    2300032: City_building_shops_light_prop 28
+    2300034: City_building_shops_light_prop 29
+    2300036: City_building_shops_light_prop 3
+    2300038: City_building_shops_light_prop 30
+    2300040: City_building_shops_light_prop 6
+    2300042: City_building_shops_light_prop 8
+    2300044: City_building_shops_light_prop 9
+    2300046: City_building_shops_prop 1
+    2300048: Object012City_building_shops_light_prop
+    3300000: City_building_shops_light_prop 11
+    3300002: City_building_shops_light_prop 12
+    3300004: City_building_shops_light_prop 15
+    3300006: City_building_shops_light_prop 16
+    3300008: City_building_shops_light_prop 17
+    3300010: City_building_shops_light_prop 18
+    3300012: City_building_shops_light_prop 19
+    3300014: City_building_shops_light_prop 2
+    3300016: City_building_shops_light_prop 20
+    3300018: City_building_shops_light_prop 21
+    3300020: City_building_shops_light_prop 22
+    3300022: City_building_shops_light_prop 23
+    3300024: City_building_shops_light_prop 24
+    3300026: City_building_shops_light_prop 25
+    3300028: City_building_shops_light_prop 26
+    3300030: City_building_shops_light_prop 27
+    3300032: City_building_shops_light_prop 28
+    3300034: City_building_shops_light_prop 29
+    3300036: City_building_shops_light_prop 3
+    3300038: City_building_shops_light_prop 30
+    3300040: City_building_shops_light_prop 6
+    3300042: City_building_shops_light_prop 8
+    3300044: City_building_shops_light_prop 9
+    3300046: City_building_shops_prop 1
+    3300048: Object012City_building_shops_light_prop
+    4300000: City_building_shops_prop
+    4300002: City_building_shops_light_prop
+    4300004: City_building_shops_light_prop
+    4300006: City_building_shops_light_prop
+    4300008: City_building_shops_light_prop
+    4300010: City_building_shops_light_prop
+    4300012: City_building_shops_light_prop
+    4300014: City_building_shops_light_prop
+    4300016: City_building_shops_light_prop
+    4300018: City_building_shops_light_prop
+    4300020: City_building_shops_light_prop
+    4300022: City_building_shops_light_prop
+    4300024: City_building_shops_light_prop
+    4300026: City_building_shops_light_prop
+    4300028: City_building_shops_light_prop
+    4300030: City_building_shops_light_prop
+    4300032: City_building_shops_light_prop
+    4300034: City_building_shops_light_prop
+    4300036: City_building_shops_light_prop
+    4300038: City_building_shops_light_prop
+    4300040: City_building_shops_light_prop
+    4300042: City_building_shops_light_prop
+    4300044: City_building_shops_light_prop
+    4300046: City_building_shops_light_prop
+    4300048: Object012City_building_shops_light_prop
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

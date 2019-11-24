@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 6e4521e99f4c3dd4fa9d443b97ebb8ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Signboard_Circle_prop
+    100002: Signboard_frame_Circle_prop
+    100004: Signboard_frame_prop
+    100006: Signboard_frame_Rectangle_prop
+    100008: Signboard_frame_Rectangle_prop 1
+    100010: Signboard_frame_Rectangle_prop 2
+    100012: Signboard_frame_Rectangle_prop 3
+    100014: Signboard_frame_Special_prop
+    100016: Signboard_frame_Square_prop
+    100018: Signboard_frame_Square_prop 1
+    100020: Signboard_frame_Stand_prop
+    100022: Signboard_plate_Circle_prop
+    100024: Signboard_plate_prop
+    100026: Signboard_plate_prop 1
+    100028: Signboard_plate_Rectangle_prop
+    100030: Signboard_plate_Rectangle_prop 1
+    100032: Signboard_plate_Rectangle_prop 2
+    100034: Signboard_plate_Special_prop
+    100036: Signboard_plate_Square_prop
+    100038: Signboard_plate_Square_prop 1
+    100040: Signboard_plate_Stand_prop
+    100042: //RootNode
+    100044: Signboard_prop 1
+    100046: Signboard_Rectangle_a_prop
+    100048: Signboard_Rectangle_a_small_prop
+    100050: Signboard_Rectangle_b_prop
+    100052: Signboard_Rectangle_b_small_prop
+    100054: Signboard_Special_prop
+    100056: Signboard_Square_a_prop
+    100058: Signboard_Square_b_prop
+    100060: Signboard_Stand_prop
+    400000: Signboard_Circle_prop
+    400002: Signboard_frame_Circle_prop
+    400004: Signboard_frame_prop
+    400006: Signboard_frame_Rectangle_prop
+    400008: Signboard_frame_Rectangle_prop 1
+    400010: Signboard_frame_Rectangle_prop 2
+    400012: Signboard_frame_Rectangle_prop 3
+    400014: Signboard_frame_Special_prop
+    400016: Signboard_frame_Square_prop
+    400018: Signboard_frame_Square_prop 1
+    400020: Signboard_frame_Stand_prop
+    400022: Signboard_plate_Circle_prop
+    400024: Signboard_plate_prop
+    400026: Signboard_plate_prop 1
+    400028: Signboard_plate_Rectangle_prop
+    400030: Signboard_plate_Rectangle_prop 1
+    400032: Signboard_plate_Rectangle_prop 2
+    400034: Signboard_plate_Special_prop
+    400036: Signboard_plate_Square_prop
+    400038: Signboard_plate_Square_prop 1
+    400040: Signboard_plate_Stand_prop
+    400042: //RootNode
+    400044: Signboard_prop 1
+    400046: Signboard_Rectangle_a_prop
+    400048: Signboard_Rectangle_a_small_prop
+    400050: Signboard_Rectangle_b_prop
+    400052: Signboard_Rectangle_b_small_prop
+    400054: Signboard_Special_prop
+    400056: Signboard_Square_a_prop
+    400058: Signboard_Square_b_prop
+    400060: Signboard_Stand_prop
+    2100000: No Name
+    2300000: Signboard_frame_Circle_prop
+    2300002: Signboard_frame_prop
+    2300004: Signboard_frame_Rectangle_prop
+    2300006: Signboard_frame_Rectangle_prop 1
+    2300008: Signboard_frame_Rectangle_prop 2
+    2300010: Signboard_frame_Rectangle_prop 3
+    2300012: Signboard_frame_Special_prop
+    2300014: Signboard_frame_Square_prop
+    2300016: Signboard_frame_Square_prop 1
+    2300018: Signboard_frame_Stand_prop
+    2300020: Signboard_plate_Circle_prop
+    2300022: Signboard_plate_prop
+    2300024: Signboard_plate_prop 1
+    2300026: Signboard_plate_Rectangle_prop
+    2300028: Signboard_plate_Rectangle_prop 1
+    2300030: Signboard_plate_Rectangle_prop 2
+    2300032: Signboard_plate_Special_prop
+    2300034: Signboard_plate_Square_prop
+    2300036: Signboard_plate_Square_prop 1
+    2300038: Signboard_plate_Stand_prop
+    3300000: Signboard_frame_Circle_prop
+    3300002: Signboard_frame_prop
+    3300004: Signboard_frame_Rectangle_prop
+    3300006: Signboard_frame_Rectangle_prop 1
+    3300008: Signboard_frame_Rectangle_prop 2
+    3300010: Signboard_frame_Rectangle_prop 3
+    3300012: Signboard_frame_Special_prop
+    3300014: Signboard_frame_Square_prop
+    3300016: Signboard_frame_Square_prop 1
+    3300018: Signboard_frame_Stand_prop
+    3300020: Signboard_plate_Circle_prop
+    3300022: Signboard_plate_prop
+    3300024: Signboard_plate_prop 1
+    3300026: Signboard_plate_Rectangle_prop
+    3300028: Signboard_plate_Rectangle_prop 1
+    3300030: Signboard_plate_Rectangle_prop 2
+    3300032: Signboard_plate_Special_prop
+    3300034: Signboard_plate_Square_prop
+    3300036: Signboard_plate_Square_prop 1
+    3300038: Signboard_plate_Stand_prop
+    4300000: Signboard_plate_Stand_prop
+    4300002: Signboard_frame_Stand_prop
+    4300004: Signboard_plate_Special_prop
+    4300006: Signboard_frame_Special_prop
+    4300008: Signboard_plate_Square_prop
+    4300010: Signboard_frame_Square_prop
+    4300012: Signboard_plate_Square_prop
+    4300014: Signboard_frame_Square_prop
+    4300016: Signboard_plate_prop
+    4300018: Signboard_frame_Rectangle_prop
+    4300020: Signboard_plate_Rectangle_prop
+    4300022: Signboard_frame_Rectangle_prop
+    4300024: Signboard_plate_Rectangle_prop
+    4300026: Signboard_frame_Rectangle_prop
+    4300028: Signboard_plate_prop
+    4300030: Signboard_frame_prop
+    4300032: Signboard_plate_Rectangle_prop
+    4300034: Signboard_frame_Rectangle_prop
+    4300036: Signboard_plate_Circle_prop
+    4300038: Signboard_frame_Circle_prop
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
